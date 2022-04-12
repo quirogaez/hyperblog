@@ -11,6 +11,14 @@ Hos es estudiante de ingenieria biomedica
 
 Hoy hablaremos de su vida y su obra maestra 
 
+<<<<<<< HEAD
 Master I
 
 Master 2
+=======
+Experimento 1
+
+Experimento 2
+
+Master I 
+>>>>>>> f0e92f2 (Experimento 2)
