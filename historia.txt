@@ -11,7 +11,4 @@ Hos es estudiante de ingenieria biomedica
 
 Hoy hablaremos de su vida y su obra maestra 
 
-Quiero ver como funciona el merge
-
-
-Esta es de la rama prueba 
+Master I
